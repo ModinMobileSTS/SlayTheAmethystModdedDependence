@@ -1,0 +1,1 @@
+此仓库用于 SlayTheAmethystModded CI 构建的依赖拉取
